@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my Github!
+
+If you want to see some of my projects check out my portfolio website: https://serrindoscher.com/
+
+I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/game-console). I'm trying to add a global leader board so users can see their scores as they play.
+
+
 
 <!--
 **Serrin-Sage/Serrin-Sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
