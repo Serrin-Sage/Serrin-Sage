@@ -13,7 +13,7 @@ I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/
 - CSS / SCSS
 - Ruby on Rails
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=Serrin-Sage)](https://github.com/Serrin-Sage/github-readme-stats)
+<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=Serrin-Sage)](https://github.com/Serrin-Sage/github-readme-stats) -->
 <!--
 **Serrin-Sage/Serrin-Sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
