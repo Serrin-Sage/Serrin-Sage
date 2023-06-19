@@ -6,6 +6,12 @@ If you want to see some of my projects check out my portfolio website: https://s
 
 I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/game-console). I'm trying to add a global leader board so users can see their scores as they play.
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/serrin-doscher-2a0544224/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ### Favorite tech I've used
 - React.js
 - React Redux
