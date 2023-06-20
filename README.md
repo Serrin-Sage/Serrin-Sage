@@ -23,7 +23,7 @@ I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serrin-sage&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serrin-sage&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![My Stats](https://github-readme-stats.vercel.app/api?username=Serrin-Sage)](https://github.com/Serrin-Sage/github-readme-stats)-->
+
 <!--
 **Serrin-Sage/Serrin-Sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
