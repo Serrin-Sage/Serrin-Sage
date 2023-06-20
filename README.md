@@ -1,10 +1,10 @@
 # Welcome to my Github!
 
-I am a software and full-stack engineer who has a passion for Frontend Development.
+### I am a software and full-stack engineer who has a passion for Frontend Development.
 
 If you want to see some of my projects check out my portfolio website: https://serrindoscher.com/
 
-I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/game-console). I'm trying to add a global leader board so users can see their scores as they play.
+I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/game-console). I'm trying to add a global leaderboard so users can see their scores as they play.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/serrin-doscher-2a0544224/" target="_blank">
@@ -19,7 +19,9 @@ I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/
 - CSS / SCSS
 - Ruby on Rails
 
-<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=Serrin-Sage)](https://github.com/Serrin-Sage/github-readme-stats) -->
+### :fire: My Stats :
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Serrin-Sage)](https://github.com/Serrin-Sage/github-readme-stats)
 <!--
 **Serrin-Sage/Serrin-Sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
