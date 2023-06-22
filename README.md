@@ -16,6 +16,8 @@ I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" widht="40" height="40" />
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg](https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg)" title="Rails" widht="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" widht="40" height="40" />
 </div>
 
 
