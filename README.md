@@ -14,8 +14,8 @@ I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/
 
 ### Favorite tech I've used
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" widht="40" height="40" />;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" widht="40" height="40" />
 </div>
 
 
