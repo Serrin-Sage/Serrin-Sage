@@ -13,7 +13,10 @@ I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/
 </div>
 
 ### Favorite tech I've used
-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" widht="40" height="40/>;
+</div>
 - React Redux
 - JavaScript
 - CSS / SCSS
