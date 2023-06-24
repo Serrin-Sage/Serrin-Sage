@@ -2,7 +2,8 @@
 
 ### I am a software and full-stack engineer who has a passion for Frontend Development.
 
-If you want to see some of my projects check out my portfolio website: https://serrindoscher.com/
+If you want to see some of my projects check out my portfolio website: 
+<div align="center">https://serrindoscher.com/ </div>
 
 I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/game-console). I'm trying to add a global leaderboard so users can see their scores as they play.
 
