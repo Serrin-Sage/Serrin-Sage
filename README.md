@@ -3,7 +3,8 @@
 ### I am a software and full-stack engineer who has a passion for Frontend Development.
 
 If you want to see some of my projects check out my portfolio website: 
-<div align="center">https://serrindoscher.com/ </div>
+<h2 align="center" decoration="none">https://serrindoscher.com/ </h2>
+</br>
 
 I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/game-console). I'm trying to add a global leaderboard so users can see their scores as they play.
 
@@ -16,10 +17,10 @@ I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/
 ### Favorite tech I've used
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" widht="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" widht="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" widht="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="SCSS" widht="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="SCSS" width="40" height="40" />
 </div>
 
 
