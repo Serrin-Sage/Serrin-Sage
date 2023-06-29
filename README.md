@@ -23,11 +23,17 @@ I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="SCSS" width="40" height="40" />
 </div>
 
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serrin-sage&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serrin-sage&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Hobbies and interests:
+- Board games
+- Magic the Gathering
+- Ping Pong
+- Game modding (physical and virtual)
 <!--
 **Serrin-Sage/Serrin-Sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
