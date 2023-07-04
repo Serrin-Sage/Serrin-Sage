@@ -34,6 +34,8 @@ Hobbies and interests:
 - Magic the Gathering
 - Ping Pong
 - Game modding (physical and virtual)
+
+
 <!--
 **Serrin-Sage/Serrin-Sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
