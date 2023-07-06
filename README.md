@@ -34,6 +34,7 @@ Hobbies and interests:
 - Magic the Gathering
 - Ping Pong
 - Game modding (physical and virtual)
+- Video Games
 
 
 <!--
