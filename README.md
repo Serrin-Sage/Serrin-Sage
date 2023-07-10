@@ -6,7 +6,7 @@ If you want to see some of my projects check out my portfolio website:
 <h1 align="center" decoration="none">https://serrindoscher.com/ </h1>
 </br>
 
-I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/game-console). I'm trying to add a global leaderboard so users can see their scores as they play.
+I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/game-console). I'm trying to add a global leaderboard so users can see their scores as they play. 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/serrin-doscher-2a0544224/" target="_blank">
