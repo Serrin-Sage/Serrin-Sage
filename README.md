@@ -2,6 +2,7 @@
 
 ### I am a software and full-stack engineer who has a passion for Frontend Development.
 
+I am currently employed as a Frontend Consultant.
 If you want to see some of my projects check out my portfolio website: 
 <h1 align="center" decoration="none">https://serrindoscher.com/ </h1>
 </br>
