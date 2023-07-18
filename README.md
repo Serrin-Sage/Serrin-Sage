@@ -39,6 +39,9 @@ Hobbies and interests:
 - Video Games
 
 
+
+- 💬 Ask me about any of my projects or interests!
+
 <!--
 **Serrin-Sage/Serrin-Sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
