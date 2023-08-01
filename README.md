@@ -39,7 +39,7 @@ Hobbies and interests:
 - Video Games
 
 
-
+</br>
 - 💬 Ask me about any of my projects or interests!
 
 <!--
