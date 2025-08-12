@@ -33,6 +33,7 @@ I'm currently working on my Virtual Gameboy app (https://github.com/Serrin-Sage/
 
 Hobbies and interests:
 - Board games
+- Riichi Mahjong
 - Magic the Gathering
 - Ping Pong
 - Game modding (physical and virtual)
